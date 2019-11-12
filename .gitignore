@@ -36,5 +36,5 @@ venv.bak/
 *.pkl
 
 .gitignore
-.csv
+*.csv
 
