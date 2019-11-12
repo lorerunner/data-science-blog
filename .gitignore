@@ -34,3 +34,6 @@ venv.bak/
 # idea
 .idea/
 *.pkl
+
+.gitignore
+
