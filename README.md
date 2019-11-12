@@ -12,11 +12,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interestested in using Stack Overflow data from 2019 to better understand:
 
-1. How ?
-2. What ?
-3. How 
+1. Which programming language is the most desire in the next year?
+2. How does different programming language related to work hours per week and job satisfaction?
+3. What biases did the respondents have in proposing different programming languages?
 
 
 ## File Descriptions <a name="files"></a>
@@ -25,9 +25,9 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com).
+The main findings of the code can be found at the post available [here](https://medium.com/p/b893238d2aa5/edit).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at link available [here](https://insights.stackoverflow.com/survey/2019).  
 
