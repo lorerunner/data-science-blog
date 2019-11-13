@@ -26,6 +26,7 @@ venv.bak/
 /site
 
 # mypy
+.ipynb_checkpoints/
 .mypy_cache/
 
 # pkl
