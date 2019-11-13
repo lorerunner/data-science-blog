@@ -15,8 +15,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Stack Overflow data from 2019 to better understand:
 
 1. Which programming language is the most desire in the next year?
-2. How does different programming language related to work hours per week and job satisfaction?
-3. What biases did the respondents have in proposing different programming languages?
+2. What biases did the respondents have in proposing different programming languages?
+3. How does different programming language related to work hours per week?
 
 
 ## File Descriptions <a name="files"></a>
